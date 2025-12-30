@@ -1,4 +1,4 @@
-# La Llamada de la diosa – TFG (RPG Maker MZ)
+# La Llamada de la Diosa – TFG (RPG Maker MZ)
 
 Este repositorio contiene el código fuente, recursos y estructura del proyecto desarrollado para el Trabajo Final de Grado.  
 
